@@ -1691,7 +1691,6 @@ public class Manager {
     //??? can't find in 3.7
     //updateSignedWitness(block);
     //updateLatestSolidifiedBlock();
-    //updateTransHashCache(block);
     updateTransHashCache(block);
     updateRecentBlock(block);
     updateDynamicProperties(block);
